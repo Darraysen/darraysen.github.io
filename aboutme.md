@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: about me
 subtitle: Why I do what I do
 ---
 
