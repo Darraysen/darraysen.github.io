@@ -4,10 +4,16 @@ title: About me
 subtitle: Why I do what I do
 ---
 
-My name is Alexander Harris. I'm afraid my interests change fairly often, but some common themes are:
+My name is Alexander Harris. Some of the more recent ideas I've been working with are:
+___
+- Data Science
+- Machine Learning
+- Natural Language Processing
 
+In the contexts of:
+___
 - Community development and empowerment
-- Math and Philosophy
+- Math, Philosophy, and general learning
 - Cats
 
 What can we learn from each other today?
