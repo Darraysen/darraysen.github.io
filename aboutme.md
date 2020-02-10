@@ -11,7 +11,7 @@ ___
 - Natural Language Processing
 ___
 
-### In the contexts of:
+### In the general contexts of:
 ___
 - Community development and empowerment
 - Math, Philosophy, and general learning
