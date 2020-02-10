@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I do what I do
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Alexander Harris. I'm afraid my interests change fairly often, but some common themes are:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Community development and empowerment
+- Math and Philosophy
+- Cats
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+What can we learn from each other today?
