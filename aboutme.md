@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about me
-subtitle: what I do and why
+subtitle: what I do
 ---
 
 ### My name is Alexander Harris. Some of the more recent tools I've been working with are:
