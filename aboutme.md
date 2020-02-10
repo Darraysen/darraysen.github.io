@@ -1,21 +1,23 @@
 ---
 layout: page
-title: About me
+title: about me
 subtitle: Why I do what I do
 ---
 
-### My name is Alexander Harris. Some of the more recent ideas I've been working with are:
+### My name is Alexander Harris. Some of the more recent tools I've been working with are:
 ___
 - Data Science
 - Machine Learning
 - Natural Language Processing
+
 ___
 
 ### In the general contexts of:
 ___
 - Community development and empowerment
-- Math, Philosophy, and general learning
+- Math, Philosophy, and Learning
 - Cats
+
 ___
 
 What can we learn from each other today?
