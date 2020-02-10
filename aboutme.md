@@ -9,11 +9,13 @@ ___
 - Data Science
 - Machine Learning
 - Natural Language Processing
+___
 
 In the contexts of:
 ___
 - Community development and empowerment
 - Math, Philosophy, and general learning
 - Cats
+___
 
 What can we learn from each other today?
